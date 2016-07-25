@@ -1,0 +1,18 @@
+-Building Content management solutions using Adobe Experience manager.
+
+-Develop websites using AEM  including the creation, 
+ configuration and integration of templates, components, dialogs, widgets .
+
+-Implemented Junit Test cases for components using Mockito Framework.
+
+-Experience in Sonar violation fixing
+
+-Experience in Version control Git hub
+
+-Experience in Maven project.
+
+-Working in sprint & scrum agile methodologies.
+
+-Experience with Java programming and database SQL developer.
+
+-Working in sprint & scrum agile methodologies.
